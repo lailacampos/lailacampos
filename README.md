@@ -8,7 +8,6 @@
 ## Hello there, welcome to my GitHub!
 
 - 💻 Full-Stack Developer
-- ⚙️ Python, Javascript, Django, Node.js, APIs REST, HTML, CSS
 - 🌎 From Salvador - Bahia state, Brazil
 
 ## Languages and Tools
