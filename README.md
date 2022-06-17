@@ -6,6 +6,14 @@
 <a href="https://t.me/lailacampos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/ivan-teotonio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lailacampos&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailacampos&layout=compact&langs_count=7&theme=default"/>
+</div>
+  
+<br>
+
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"> <img src="https://github-profile-trophy.vercel.app/?username=lailacampos" alt="linkedin"/> </a>
 </p>
@@ -54,9 +62,15 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Framework</h3>
+<h3 align="center">Frameworks</h3>
 <p align="center">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+</p>
+  
+<h3 align="center">Operational Systems</h3>
+<p align="center">
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Other</h3>
