@@ -33,7 +33,7 @@
 <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a style="text-decoration: none;" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a style="text-decoration: none;" href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a style="text-decoration: none;" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svgg" alt="php" width="40" height="40"/> </a>
+<a style="text-decoration: none;" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Frontend Development</h3>
