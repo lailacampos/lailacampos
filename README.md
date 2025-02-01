@@ -42,6 +42,7 @@
 <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a style="text-decoration: none;" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a style="text-decoration: none;" href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a style="text-decoration: none;" href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Backend Development</h3>
